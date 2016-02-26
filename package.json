@@ -1,0 +1,33 @@
+{
+  "name": "base-convertor",
+  "version": "1.0.0",
+  "description": "Convert string or buffer from any base to any base",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:131/base-convertor.git"
+  },
+  "keywords": [
+    "base",
+    "conversion",
+    "bin2hex",
+    "hex2bin",
+    "bin2dec",
+    "hex2dec",
+    "dec2bin",
+    "dex2hex",
+    "dec2dec"
+  ],
+  "author": "Francois Leurent <fleurent@ivsweb.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/131/base-convertor/issues"
+  },
+  "homepage": "https://github.com/131/base-convertor",
+  "dependencies": {
+    "big-integer": "^1.6.12"
+  }
+}
